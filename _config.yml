@@ -1,7 +1,7 @@
 title: Ben Gill
 email: benggill@protonmail.com
 description: Creative Copywriter & Field Producer
-baseurl: "/bengillabides"
+baseurl: "/my-portfolio-site"
 url: ""
 plugins:
   - jekyll-seo-tag
