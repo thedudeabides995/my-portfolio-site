@@ -24,4 +24,4 @@ paginate_path: "/blog/page:num/"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title
-ga: ""
+ga: "UA-35132150-1"
