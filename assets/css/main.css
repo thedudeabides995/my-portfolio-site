@@ -1258,7 +1258,7 @@ button {
       rgba(19, 21, 25, 0.5),
       rgba(19, 21, 25, 0.5)
     ),
-    url("{{'/assets/img/bg.jpg' | relative_url}}") no-repeat;
+    url("{{'/assets/img/bg.webp' | relative_url}}") no-repeat;
   background-size: auto, 256px 256px;
   background-position: center, center;
   background-repeat: no-repeat, repeat;
@@ -1277,7 +1277,7 @@ button {
   -ms-transition: -ms-transform 0.325s ease-in-out,
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("{{'/assets/img/bg.jpg' | relative_url}}");
+  background-image: url("{{'/assets/img/bg.webp' | relative_url}}");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
